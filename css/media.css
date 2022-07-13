@@ -1,0 +1,180 @@
+@media(max-width:575px) {
+    .navbar-brand-img {
+        width: 90px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        font-size: 18px;
+        text-align: center;
+        font-weight: 400;
+    }
+
+    .height h1 {
+        color: rgb(255, 255, 255);
+        text-transform: uppercase;
+        font-size: 36px;
+    }
+
+    .fontline {
+        position: absolute;
+        bottom: 50px;
+        left: 50%;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+        animation: 1s linear 0s infinite alternate none running updown;
+    }
+
+    .banner-1 span {
+        margin: auto;
+    }
+
+    .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 1;
+        text-align: center;
+    }
+
+    .banner-1 h1 {
+
+margin: 20px;
+
+font-size: 35px;
+
+text-align: center;
+
+}
+
+    .banner-1 {
+        margin: 30px auto;
+    }
+
+    .banner-1 p {
+        color: rgb(173 153 141);
+        font-size: 12px;
+        margin: 20px 10px;
+    }
+
+    .Banner-2 span {
+        margin: 20px auto;
+        width: 15%;
+    }
+
+    .Banner-2 h1 {
+        margin: 5px auto;
+        text-align: center;
+        color: rgb(58, 19, 114);
+        font-size: 35px;
+    }
+
+    .banner-3 {
+        background: rgb(54, 34, 111);
+        padding: 0;
+    }
+
+    .banner-3 span {
+        background: rgb(231, 97, 40);
+        height: 4px;
+        display: block;
+        margin-left: 0px;
+        width: 15%;
+        margin: 20px auto;
+        text-align: center;
+    }
+
+    .banner-3 h1 {
+        color: rgb(255, 255, 255);
+        margin: 20px auto;
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .banner-3 p {
+        color: rgb(163, 160, 204);
+        margin: 0;
+        text-align: center;
+    }
+
+    .banner-3 h4 {
+        color: rgb(231, 97, 40);
+        margin-top: 28px;
+        margin-bottom: 30px;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .banner-4 span {
+        display: block;
+        height: 4px;
+        background: rgb(241, 86, 38);
+        margin: 22px auto;
+        width: 70px;
+    }
+
+    .banner-4 h1 {
+        margin: 8px auto;
+        text-align: center;
+        color: rgb(58, 19, 114);
+        font-size: 35px;
+        text-transform: uppercase;
+    }
+
+    .language h1 {
+        font-size: 22px;
+        text-transform: uppercase;
+        margin: 25px auto;
+    }
+
+    .language {
+        text-align: center;
+    }
+
+    .banner-5 span {
+        display: block;
+        height: 4px;
+        background: rgb(241, 86, 38);
+        margin: -8px auto;
+        width: 50px;
+    }
+
+    .banner-5 h1 {
+        margin: 30px auto;
+        text-align: center;
+        color: #fff;
+        font-size: 35px;
+        text-transform: uppercase;
+    }
+
+    .btn-custom {
+        background-color: #e76128;
+        color: #fff;
+        border: none;
+        padding: 5px 30px;
+        margin-top: 10px;
+    }
+
+    footer p {
+        color: rgb(108, 100, 160);
+        margin: auto;
+        text-align: center;
+        font-size: 13px;
+    }
+
+    .icon-item ul {
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+
+        justify-content: space-evenly;
+        margin-top: 20px;
+    }
+    .language h4 {
+        color: rgb(231, 97, 40);
+        text-transform: uppercase;
+        margin-top: 20px;
+        font-size: 12px;
+        }
+        .form-control {
+            display: block;
+            width: 95%;}
+}
